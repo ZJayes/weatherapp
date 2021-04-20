@@ -10,5 +10,5 @@ API KEY = 1ea36e0552c37ca4ca374d20f2d7430c
 
 ## Links
 
-https://github.com/ZJayes/WeatherDashboard
-https://zjayes.github.io/WeatherDashboard/
+ https://github.com/ZJayes/weatherapp
+ https://zjayes.github.io/weatherapp/
